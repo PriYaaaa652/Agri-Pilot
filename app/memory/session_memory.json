@@ -1,0 +1,168 @@
+{
+    "4e751220-db35-4064-a8d3-9b06b668ddd1": {
+        "language_preference": "Bangla",
+        "last_query_summary": ""
+    },
+    "5afc44b6-1872-4f34-90b8-a5b737e83bc3": {
+        "language_preference": "Bangla",
+        "last_query_summary": "",
+        "district": "Dhaka",
+        "crop_type": "Tomatoes"
+    },
+    "469e51a2-fd1d-4d72-8c66-68665a6a4da0": {
+        "language_preference": "Bangla",
+        "last_query_summary": ""
+    },
+    "b0df9465-377c-43b0-8332-1a9b955b82d2": {
+        "district": "Dhaka",
+        "crop_type": "Tomatoes",
+        "language_preference": "Bangla",
+        "last_query_summary": ""
+    },
+    "3e30afc7-4cac-4473-b16c-71becabb7f22": {
+        "language_preference": "Bangla",
+        "last_query_summary": ""
+    },
+    "ddedb3d8-b311-4edd-a33e-4ef1ae6bf900": {
+        "language_preference": "Bangla",
+        "last_query_summary": "",
+        "district": "Dhaka",
+        "crop_type": "Tomatoes"
+    },
+    "757f2dfe-5c63-4c6b-987c-d003e81d4e94": {
+        "language_preference": "Bangla",
+        "last_query_summary": "The original request 'Why is the sky blue?' is outside the scope of agricultural queries and cannot be processed by AgriPilot's specialized agents. Crop diagnosis confidence is 0.0 as no relevant input was provided by the sub-agent."
+    },
+    "587345cc-27cf-4a48-abb6-3cdcc46fbca0": {
+        "language_preference": "Bangla",
+        "last_query_summary": "The original request 'Why is the sky blue?' is a general knowledge question and falls outside the scope of agricultural recommendations. Therefore, no agricultural analysis or specific recommendation can be generated. Confidence scores for sub-agents are 0.0 as no relevant agricultural input was provided."
+    },
+    "7aceec0e-2c95-4bf8-9692-ff690d051578": {
+        "language_preference": "Bangla",
+        "last_query_summary": "No specific crop diagnosis, weather alerts, or market pricing data were provided by the sub-agents. Therefore, a comprehensive and data-driven recommendation plan cannot be formulated."
+    },
+    "ce9c27e1-dc71-4af6-8722-77590b250915": {
+        "language_preference": "Bangla",
+        "last_query_summary": "The initial user request 'Why is the sky blue?' is a general knowledge question and not an agricultural inquiry. Therefore, no agricultural inputs (crop diagnosis, weather alerts, or market pricing) could be gathered or analyzed."
+    },
+    "aba33a2f-8ab1-4b69-beb9-aa65f5ea182c": {
+        "language_preference": "Bangla",
+        "last_query_summary": "No specific crop health data was received from the crop_doctor agent. Confidence for diagnosis is 0.0. No specific weather data was received from the weather_agent. Confidence for weather is 0.0."
+    },
+    "b8c6555a-e753-474a-96c3-76c761cc6c64": {
+        "language_preference": "Bangla",
+        "last_query_summary": "No crop diagnosis data was provided, therefore diagnosis confidence is 0.0. No weather alert data was provided, therefore weather confidence is 0.0.",
+        "district": "Dhaka",
+        "crop_type": "Tomatoes"
+    },
+    "ca021973-149d-4295-b50c-5ed00cab53ee": {
+        "language_preference": "Bangla",
+        "last_query_summary": ""
+    },
+    "fae31f65-d931-4add-aa20-19ffd51a5290": {
+        "language_preference": "Bangla",
+        "last_query_summary": ""
+    },
+    "63e65353-b4eb-443b-a1ce-257535c8e7d2": {
+        "district": "Dhaka",
+        "crop_type": "Tomatoes",
+        "language_preference": "Bangla",
+        "last_query_summary": ""
+    },
+    "b919577e-3a5f-48d5-9a15-9f93c9d9a613": {
+        "language_preference": "Bangla",
+        "last_query_summary": "The user's query was outside the scope of agricultural assistance. No action can be taken based on the provided information."
+    },
+    "6291698b-d4db-49cc-abc3-df4389dc203a": {
+        "language_preference": "Bangla",
+        "last_query_summary": "Soil and crop health are currently excellent, requiring no immediate intervention. Favorable weather conditions permit routine farm operations."
+    },
+    "c310d396-26c6-4959-9547-c4bdeaa802f6": {
+        "language_preference": "Bangla",
+        "last_query_summary": "The user's query is not related to agriculture, weather, or market prices. No specific agricultural recommendations can be made based on the provided query."
+    },
+    "4e7576c6-aa32-4f93-89e5-5167337c0219": {
+        "language_preference": "Bangla",
+        "last_query_summary": "Soil nutrient levels are good, no immediate need for fertilization. Favorable weather conditions allow for uninterrupted field activities."
+    },
+    "ef14654c-823f-4de1-9b08-a5e83451b655": {
+        "district": "Sylhet",
+        "crop_type": "Rice",
+        "language_preference": "Bangla",
+        "last_query_summary": ""
+    },
+    "cb896bda-5f30-4fd8-b246-956cef6ebf19": {
+        "district": "Sylhet",
+        "crop_type": "Rice",
+        "language_preference": "Bangla",
+        "last_query_summary": ""
+    },
+    "ec37cf65-34c5-4f61-839d-53f1329f3b97": {
+        "district": "Sylhet",
+        "crop_type": "Rice",
+        "language_preference": "Bangla",
+        "last_query_summary": ""
+    },
+    "f508a7bc-76fd-48b9-9c24-9418b4f6eb63": {
+        "district": "Sylhet",
+        "crop_type": "Rice",
+        "language_preference": "Bangla",
+        "last_query_summary": ""
+    },
+    "bf3c7d94-5e47-4722-b10a-cee74f030225": {
+        "district": "Sylhet",
+        "crop_type": "Rice",
+        "language_preference": "Bangla",
+        "last_query_summary": ""
+    },
+    "ee4c6fa7-11f4-48b4-8544-17c2f9a76885": {
+        "district": "Sylhet",
+        "crop_type": "Rice",
+        "language_preference": "Bangla",
+        "last_query_summary": ""
+    },
+    "eadd300c-8511-4bc3-aa9d-877bb18a483b": {
+        "district": "Sylhet",
+        "crop_type": "Rice",
+        "language_preference": "Bangla",
+        "last_query_summary": ""
+    },
+    "756040b1-1c49-4f43-bbb5-0d894891bc3c": {
+        "district": "Sylhet",
+        "crop_type": "Rice",
+        "language_preference": "Bangla",
+        "last_query_summary": ""
+    },
+    "3cf2528d-0b87-46f4-94f5-a5e693d82368": {
+        "language_preference": "Bangla",
+        "last_query_summary": ""
+    },
+    "41b749c2-72f3-4ea2-b664-86a633446d06": {
+        "district": "Dhaka",
+        "crop_type": "Tomatoes",
+        "language_preference": "Bangla",
+        "last_query_summary": ""
+    },
+    "013c8f6d-5dc8-4ae8-97ff-f49e34bc26aa": {
+        "district": "Dhaka",
+        "crop_type": "Tomatoes",
+        "language_preference": "Bangla",
+        "last_query_summary": ""
+    },
+    "fd9321c0-ec16-40c9-a408-fdd7111a9c1d": {
+        "district": "Dhaka",
+        "crop_type": "Tomatoes",
+        "language_preference": "Bangla",
+        "last_query_summary": ""
+    },
+    "77d5dc4b-783f-4b2b-9200-859465696e4e": {
+        "district": "Dhaka",
+        "crop_type": "Tomatoes",
+        "language_preference": "Bangla",
+        "last_query_summary": ""
+    },
+    "279b86dc-71cc-4be7-9de2-53d4ed49ed51": {
+        "language_preference": "Bangla",
+        "last_query_summary": ""
+    }
+}

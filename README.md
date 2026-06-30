@@ -304,6 +304,23 @@ __pycache__/
 
 ---
 
+## 🎙️ Demo Script
+
+A complete spoken presentation narration is available in [DEMO_SCRIPT.txt](file:///g:/ADK_Workspace/agripilot/DEMO_SCRIPT.txt). It provides a step-by-step walkthrough script matching the sample test cases and diagrams.
+
+---
+
+## 🖼️ Assets
+
+- **Cover Page Banner:**
+  ![AgriPilot Cover Banner](./assets/agripilot_banner.png)
+
+- **Workflow Architecture Diagram:**
+  ![AgriPilot Workflow Diagram](./assets/agripilot_architecture.png)
+
+---
+
 <p align="center">
   Made with 🌱 for the farmers of Bangladesh
 </p>
+
